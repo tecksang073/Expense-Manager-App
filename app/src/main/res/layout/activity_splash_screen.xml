@@ -14,6 +14,7 @@
         android:layout_height="150dp"
         android:src="@drawable/applogo"
         android:layout_gravity="center"
+        />
 
     <TextView
         android:id="@+id/appName"
