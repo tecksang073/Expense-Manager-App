@@ -1,4 +1,4 @@
-package com.tecksang.expensemanagerapp;
+package com.projectdeneb.expensemanagerapp;
 
 import org.junit.Test;
 

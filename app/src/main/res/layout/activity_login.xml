@@ -49,10 +49,10 @@
         />
 
     <TextView
-        android:id="@+id/signup"
+        android:id="@+id/loginQn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Signup"
+        android:text="Don't have an account? Sign Up"
         android:gravity="center"
         />
 
